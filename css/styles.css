@@ -54,18 +54,14 @@ body {
   z-index: 1; }
 
 .modal-header {
-    background-color: #512DA8;
-    color: floralwhite;
-}
+  background-color: #512DA8;
+  color: floralwhite; }
 
 .modal-body {
-  background-color: #D1C4E9;
-}
+  background-color: #D1C4E9; }
 
-.close{
-  color: #D1C4E9;
-}
+.close {
+  color: #D1C4E9; }
 
-.close:hover{
-  color: floralwhite;
-}
+.close:hover {
+  color: floralwhite; }
